@@ -1,0 +1,10 @@
+# Copy this file and rename to .env 
+# environment variables to keep sensitive info out of git
+
+#mongodb hostname
+host=0.0.0.0
+#mongodb port
+port=27017
+#mongodb db name
+database=database
+

@@ -10,3 +10,8 @@ port=27017
 #mongodb db name
 database=database
 
+#mongodb username
+username=username
+
+#mongodb username
+password=password
